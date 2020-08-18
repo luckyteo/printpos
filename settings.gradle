@@ -1,0 +1,3 @@
+include ':printpos'
+include ':app'
+rootProject.name = "printpos"
